@@ -1,4 +1,4 @@
-Airline,ORG,DES,Aircraft_Family,Aircraft_Type,June_2019_Flights,June_2019_Seats,June_2019_ASMs,June_2018_Flights,June_2018_Seats,June_2018_ASMs,June_Diff_Flights,June_Diff_Seats,June_Diff_ASMs,June_Rate_Flights,June_Rate_Seats,June_Rate_ASMs
+Airline,ORG,DES,Aircraft_Family,Aircraft_Type,June-August_2019_Flights,June-August_2019_Seats,June-August_2019_ASMs,June-August_2018_Flights,June-August_2018_Seats,June-August_2018_ASMs,June-August_Diff_Flights,June-August_Diff_Seats,June-August_Diff_ASMs,June-August_Rate_Flights,June-August_Rate_Seats,June-August_Rate_ASMs
 TS,AGP,YUL,A310,A310,27,"6,750","23,989,500",37,"9,213","32,743,002",-10,"-2,463","-8,753,502",-27.00%,-26.70%,-26.70%
 TS,AMS,YYZ,A310,A310,0,0,0,4,996,"3,717,072",-4,-996,"-3,717,072",-100.00%,-100.00%,-100.00%
 TS,BCN,YUL,A310,A310,39,"9,750","35,919,000",39,"9,711","35,775,324",0,39,"143,676",0.00%,0.40%,0.40%

@@ -1,4 +1,4 @@
-Airline,ORG,DES,Aircraft_Family,Aircraft_Type,June_2019_Flights,June_2019_Seats,June_2019_ASMs,June_2018_Flights,June_2018_Seats,June_2018_ASMs,June_Diff_Flights,June_Diff_Seats,June_Diff_ASMs,June_Rate_Flights,June_Rate_Seats,June_Rate_ASMs
+Airline,ORG,DES,Aircraft_Family,Aircraft_Type,August_2019_Flights,August_2019_Seats,August_2019_ASMs,August_2018_Flights,August_2018_Seats,August_2018_ASMs,August_Diff_Flights,August_Diff_Seats,August_Diff_ASMs,August_Rate_Flights,August_Rate_Seats,August_Rate_ASMs
 3H,AKV,YIK,DeHavilland Dash-8,DHC-8,31,"1,271","185,566",31,"1,271","185,566",0,0,0,0.00%,0.00%,0.00%
 3H,AKV,YPX,DeHavilland Dash-8,DHC-8,31,"1,271","83,886",31,"1,271","83,886",0,0,0,0.00%,0.00%,0.00%
 3H,XGR,YVP,Beechcraft,BET,5,45,"4,320",4,36,"3,456",1,9,864,25.00%,25.00%,25.00%
